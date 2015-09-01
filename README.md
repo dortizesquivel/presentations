@@ -1,2 +1,2 @@
-# presentations
-Collection of presentation
+# Presentations
+Collection of presentations
